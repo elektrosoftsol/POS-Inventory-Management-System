@@ -1,4 +1,6 @@
 # POS-Inventory-Management-System
+<p>Note: This software uses .Net Framework 4.5.2 and can support both x86 and x64 OS</p>
+
 <h3> Track your sales </h3>
 <ul>
   <li>Track the sales growth or decline compared with the previous day, week, or month, and promptly react to changes.</li>
