@@ -22,3 +22,5 @@
   <li>Connect receipt printers and customer display to give your customers full information about their purchase.</li>
   <li>Connect barcode scanners for quick and accurate sales.</li>
 </ul>
+
+
