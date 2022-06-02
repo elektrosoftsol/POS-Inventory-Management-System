@@ -22,5 +22,5 @@
   <li>Connect receipt printers and customer display to give your customers full information about their purchase.</li>
   <li>Connect barcode scanners for quick and accurate sales.</li>
 </ul>
-
+<img src="https://raw.githubusercontent.com/elektrosoftsol/POS-Inventory-Management-System/main/POS.PNG" alt="Trulli" width="800" height="533">
 
