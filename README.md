@@ -1,5 +1,5 @@
 # POS-Inventory-Management-System
-<p>Note: This software uses .Net Framework 4.5.2 and can support both x86 and x64 OS</p>
+<p>Note: This software uses .Net Framework 4.5.2 and can support both x86 and x64 OS. MySQL database is used. Use MySQL Workbench to open databsae "posisdb"</p>
 
 <h3> Track your sales </h3>
 <ul>
