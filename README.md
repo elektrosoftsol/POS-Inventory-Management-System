@@ -1,6 +1,15 @@
 # POS-Inventory-Management-System
-<p><b>Note:</b> This software uses .Net Framework 4.5.2 and can support both x86 and x64 OS. MySQL database is used. Use MySQL Workbench to open databsae "posisdb". <b>User can setup server info by F12 key when login screen appears.<b/></p>
+<p><b>Note:</b> This software uses .Net Framework 4.5.2 and can support both x86 and x64 OS. MySQL database is used. Use MySQL Workbench to open databsae "posisdb". 
 
+  <br><b>User can setup server info by pressing F12 key when login screen appears.<b/>
+
+  <br> To Login as an Admin, use undermentioned credentials:
+  <ul>
+    <li> Username: admin </li>
+    <li> Password: admin </li>
+  </ul>
+  </p> 
+<h2> About POS & Inventory Management System </h2>
 <h3> Track your sales </h3>
 <ul>
   <li>Track the sales growth or decline compared with the previous day, week, or month, and promptly react to changes.</li>
